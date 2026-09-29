@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Haneen Tarek! 👋
 
-<!--
-**haneentarek7006/haneentarek7006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Medical Informatics student with a strong focus on Data Analysis and Business Intelligence.
 
-Here are some ideas to get you started:
+### 🛠️️ Tech Stack & Skills
+- Languages: Python, R, SQL, C++
+- Data Analysis & BI: Power BI, Excel (Power Query, DAX), Pandas, NumPy, Seaborn, Plotly
+- Databases: MS SQL Server, Oracle Database
+- Tools: VS Code, Jupyter Notebook, Google Colab, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 What I Do
+- Building interactive dashboards using Power BI & Excel.
+- Querying & analyzing healthcare and business datasets with SQL.
+- Data cleaning & statistical analysis using Python & R.
+
+---
+📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/haneen-tarek-658310350)
